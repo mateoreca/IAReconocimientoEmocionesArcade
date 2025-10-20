@@ -1,3 +1,5 @@
+https://youtu.be/7uv_BBNAC98
+
 IA - Reconocimiento de Emociones con Juego Arcade  
 Este proyecto implementa un sistema de detección de emociones en tiempo real mediante visión por computadora y redes neuronales convolucionales. El modelo entrenado con EfficientNetB0 analiza expresiones faciales y controla un mini juego arcade interactivo, donde las emociones del usuario influyen en el desarrollo del juego.  
 
