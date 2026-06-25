@@ -30,5 +30,5 @@ Modelo utilizado
 El modelo se entrenó con EfficientNetB0, optimizando la precisión en la detección de emociones humanas. Fue guardado en formato .h5 y gestionado mediante Git LFS. Emociones clasificadas: Feliz, Neutral, Enojado, Triste, Sorprendido, Relajado.  
 ## Autor  
 Mateo Rendón Cañon
-Estudiante de Ingeniería de Sistemas  
+Ingeniero de Sistemas
 Correo: mateorendonca@gmail.com  
